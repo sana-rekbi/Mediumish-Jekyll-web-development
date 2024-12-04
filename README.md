@@ -1,23 +1,36 @@
 # Mediumish - Jekyll Theme
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+# Mediumish Jekyll Web Development
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+This is a personal or technical blog website created to showcase my web development skills. The site is built using **Jekyll**, **HTML**, **CSS**, and **JavaScript**, and it is hosted on **GitHub Pages**.
 
+## Features
 
-### Copyright
+- Responsive and clean design
+- Built with modern web development tools
+- Fully compatible with GitHub Pages
+- Includes dynamic elements and a blog section
+- Easy navigation and user-friendly layout
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+## Purpose
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+This website serves as:
+- A portfolio to demonstrate my expertise in web development
+- A platform to share tutorials, technical articles, and insights
+- An example of deploying a Jekyll-based site using GitHub Pages
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+## Technologies Used
 
-### Contribute
+- **Jekyll**: Static site generator
+- **HTML/CSS**: Markup and styling
+- **JavaScript**: Dynamic elements
+- **GitHub Pages**: Hosting and deployment
 
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
+## Installation and Setup
 
-Thank you!
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sana-rekbi/Mediumish-Jekyll-web-development.git
+   cd Mediumish-Jekyll-web-development
